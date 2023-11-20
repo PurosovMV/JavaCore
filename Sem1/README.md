@@ -1,6 +1,6 @@
 ## Домашнее задание №1
 
-[Посмотреть код тестовой задачи](https://github.com/PurosovMV/FinalWork/tree/main/app/src)
+[Посмотреть код тестовой задачи](https://github.com/PurosovMV/JavaCore/tree/main/Sem1/App/Calculator/src)
 
 
 Демонстрация работы задачи в Docker контейнере:
