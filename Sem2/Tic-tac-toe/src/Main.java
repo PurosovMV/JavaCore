@@ -42,8 +42,8 @@ public class Main {
      */
 
     static void initialize() {
-        fieldSizeY = 6;
-        fieldSizeX = 6;
+        fieldSizeY = 9;
+        fieldSizeX = 9;
         field = new char[fieldSizeY][fieldSizeX];
         for (int y = 0; y < fieldSizeY; y++) {
             for (int x = 0; x < fieldSizeX; x++) {
