@@ -25,7 +25,7 @@ public class Main {
         Staff personal = new Staff(staff);
 
         System.out.println("Список  сотрудников: ");
-        for (Employee employee : personal) {
+        for (Employee employee : staff) {
             System.out.println(employee);
         }
         System.out.println();
